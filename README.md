@@ -41,6 +41,19 @@ Fork this repository and make changes to the forked repository. Make the changes
 #### Talks
   * [The astounding athletic power of quadcopters](https://youtu.be/w2itwFJCgFQ)
 ## Repositories
+
+### Repositories from BITS Pilani
+
+* GenNav ERC-BPGC [[Link]](https://github.com/ERC-BPGC/gennav)
+* Omnibase ERC-BPGC [[Link ](https://github.com/ERC-BPGC/omnibase)]
+* GenRL SforAIDL [[Link]](https://github.com/SforAiDl/genrl)
+
+
+---
+
+### External Repositories
+
 * Autonomous landing UAV [[Link]](https://github.com/MikeS96/autonomous_landing_uav)
-
-
+* RotorS Simulator ETHZ-ASL [[Link]](https://github.com/ethz-asl/rotors_simulator)
+* Graph Based Exploration Planner (GBPlanner) UNR-ARL [[Link]](https://github.com/unr-arl/gbplanner_ros)
+* Motion Primitives Based Exploration Planner (MBPlanner) UNR-ARL [[Link]](https://github.com/unr-arl/mbplanner_ros)
